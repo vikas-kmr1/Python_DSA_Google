@@ -2,6 +2,7 @@
 
 ### module-1
  * intro to Efficiency,Complexity and Big-O Notations.
+   * <a hreaf="https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation">Click here to read more</a>
 
 <hr>
 
@@ -19,8 +20,8 @@
     * <a href="https://www.youtube.com/watch?v=ZONGA5wmREI">Source Video</a>    
   <br>
 * 
-    * <a href="">Stack</a>    
-    * <a href="">Source Video</a>    
+    * <a href="https://www.geeksforgeeks.org/stack-data-structure/">Stack</a>    
+    * <a href="https://www.youtube.com/watch?v=HpaVHzDeZC4">Source Video</a>    
   <br>
 * 
     * <a href="">Queue</a>    
