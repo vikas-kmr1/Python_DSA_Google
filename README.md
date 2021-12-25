@@ -2,7 +2,7 @@
 
 ### module-1
  * intro to Efficiency,Complexity and Big-O Notations.
-   * <a hreaf="https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation">Click here to read more</a>
+   * <a href="https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation">Click here to read more</a>
 
 <hr>
 
