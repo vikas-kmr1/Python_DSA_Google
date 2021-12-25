@@ -24,7 +24,7 @@
     * <a href="https://www.youtube.com/watch?v=HpaVHzDeZC4">Source Video</a>    
   <br>
 * 
-    * <a href="">Queue</a>    
-    * <a href="">Source Video</a>    
+    * <a href="https://www.geeksforgeeks.org/queue-data-structure/">Queue</a>    
+    * <a href="https://www.youtube.com/watch?v=XAbzlilAHZw">Source Video</a>    
   <br>  
 <hr>
