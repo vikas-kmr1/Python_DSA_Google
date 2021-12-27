@@ -1,4 +1,4 @@
-def mergeSort(arr):
+def mergeSort(arr): # initial arr=[12, 11, 13, 5, 6, 7,1]
 	if len(arr)>1:
 		mid=len(arr)//2 # returns Quotient or floor division value
 		Lt=arr[:mid]
