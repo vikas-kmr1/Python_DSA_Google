@@ -57,6 +57,37 @@
    * <a href="https://www.youtube.com/watch?v=kUon6854joI" >Source Video</a>
    <br>
 <hr>  
+   
+### module-4 
+
+* 
+   * <a href="https://www.w3schools.com/python/python_sets.asp" >Sets </a>
+   * <a href="https://www.youtube.com/watch?v=gmIb-qZhTDQ"> Source Video </a>
+   <br>
+* 
+   * <a href="https://docs.python.org/2/tutorial/datastructures.html#dictionaries">Dictionaries</a>
+   * <a href="https://classroom.udacity.com/courses/ud513/lessons/7118294395/concepts/78812863000923">Source </a>
+  
+   <br>
+
+* 
+   * <a href="https://www.geeksforgeeks.org/hashing-data-structure/#:~:text=Hashing%20is%20a%20technique%20or,of%20the%20hash%20function%20used." >Hashing </a>
+   * <a href="https://www.youtube.com/watch?v=kCPFfHx_LgQ"> Source Video </a>
+   * <a href="https://www.youtube.com/watch?v=BUaWIjZ_ToY"> Collisions Video </a>
+   <br>
+  
+
+* 
+   * <a href="https://www.geeksforgeeks.org/hash-map-in-python/" >Hash Map </a>
+   * <a href="https://www.youtube.com/watch?v=A-ahUVi8pYQ"> Source Video </a>
+   <br>
+* 
+   * <a href="https://www.geeksforgeeks.org/python-key-with-all-characters-in-string/" >String Keys </a>
+   * <a href="https://www.youtube.com/watch?v=WyFwieF1NN4"> Source Video </a>
+   <br>
+<hr>
+
+
     
 ##  Visualization of the  Algorithms
 * 
