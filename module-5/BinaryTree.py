@@ -30,6 +30,9 @@ class BinaryTree(object):
                 return self.preorder_search(start.left, find_val) or self.preorder_search(start.right,find_val)
         return False
 
+
+
+
     def preorder_print(self, start, traversal):
         """Helper method - use this to create a
         recursive print solution."""
