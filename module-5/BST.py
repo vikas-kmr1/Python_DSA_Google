@@ -80,6 +80,7 @@ print(tree.inorder_print(tree.root," "))
 # Check search
 # Should be True
 
-print(tree.search(4))
+print(tree.search(13))
 # Should be False
 print(tree.search(6))
+print(tree.search(70))
