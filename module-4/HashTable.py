@@ -2,10 +2,15 @@
 in a hash table, where keys are calculated
 using the first two letters of the string."""
 
+# use the Python function ord() to get the ASCII value of a letter,
+# and chr() to get the letter associated with an ASCII value.
+
+
 
 class HashTable(object):
     def __init__(self):
         self.table = [None] * 10000
+
 
 
     def store(self, string):
