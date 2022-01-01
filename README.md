@@ -87,6 +87,29 @@
    <br>
 <hr>
 
+### module-5 
+
+*  Video Lectures
+   
+   * <a href="https://www.youtube.com/watch?v=mPUsDUR_sj8">Tree Terminology</a>
+   * <a href="https://www.youtube.com/watch?v=KZOdmzypynw" >Tree Traversal </a>
+   * <a href="https://www.youtube.com/watch?v=wp5ohHFTieM" > DFS Traversal</a>
+   * <a href="https://www.youtube.com/watch?v=KbL-HK3ztX8" >Binary Tree</a>
+   * <a href="https://www.youtube.com/watch?v=7-ZQrugO-Yc" > Binary Tree insert and delete</a>
+   * <a href="https://www.youtube.com/watch?v=7-ZQrugO-Yc" > Binary Search Tree</a>
+   * <a href="https://www.youtube.com/watch?v=abRNGLhGUmE" >BST</a>
+   * <a href="" >  Traversal</a>
+   * <a href="" >  Traversal</a>
+   <br>
+
+
+* 
+   * <a href="" > </a>
+   * <a href=""> Source Video </a>
+   <br>
+
+
+
 
     
 ##  Visualization of the  Algorithms
