@@ -98,17 +98,36 @@
    * <a href="https://www.youtube.com/watch?v=7-ZQrugO-Yc" > Binary Tree insert and delete</a>
    * <a href="https://www.youtube.com/watch?v=7-ZQrugO-Yc" > Binary Search Tree</a>
    * <a href="https://www.youtube.com/watch?v=abRNGLhGUmE" >BST</a>
-   * <a href="" >  Traversal</a>
-   * <a href="" >  Traversal</a>
+   * <a href="https://www.youtube.com/watch?v=M3B0UJWS_ag" >Heaps</a>
+   * <a href="https://www.youtube.com/watch?v=CAbDbiCfERY" >Heapify</a>
+   * <a href="https://www.youtube.com/watch?v=2LAdml6_pDY" >Heap implementation</a>
+   * <a href="https://www.youtube.com/watch?v=EHI548K3jiw" >self balancing Tree</a>
+   * <a href="https://www.youtube.com/watch?v=dIuWLtWnkgs" >Red-Black Tree</a>
+  
    <br>
+<hr>
 
+### module-6 
 
-* 
-   * <a href="" > </a>
-   * <a href=""> Source Video </a>
+*  Video Lectures
+   * <a href="https://www.youtube.com/watch?v=p-_DFOyEMV8" >Graph</a>
+   * <a href="https://www.youtube.com/watch?v=uw9u6dtl0WA" >Graph Representations </a>
+   * <a href="https://www.youtube.com/watch?v=Dkt-XxHZaZE" >Graph Traversal</a>
+   * <a href="https://www.youtube.com/watch?v=BC8jEidd2EQ" >DFS </a>
+   * <a href="https://www.cs.usfca.edu/~galles/visualization/DFS.html" >DFS Visualization</a>
+   * <a href="https://youtu.be/pol4kGNlvJA" >BFS </a>
+   * <a href="https://www.cs.usfca.edu/~galles/visualization/BFS.html" >BFS Visualization </a>
+   * <a href="https://youtu.be/zS34kHSo7fs" >Eulerian Path </a>
    <br>
+<hr>
 
+### module-7 
 
+*  Video Lectures
+    * <a href="" > </a>
+    * <a href="" > </a>
+    * <a href="" > </a>
+    * <a href="" > </a>
 
 
     
@@ -116,3 +135,9 @@
 * 
   * <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html">Click here to View </a>
   * <a href="https://visualgo.net/en/sorting">Click Here to View</a>
+<hr>
+  
+* 
+    * Course from Grow with Google<br>
+      [click here](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+
