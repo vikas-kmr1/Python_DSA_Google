@@ -138,6 +138,6 @@
 <hr>
   
 * 
-    * Course from Grow with Google<br>
+    * Course by Grow with Google<br>
       [click here](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
